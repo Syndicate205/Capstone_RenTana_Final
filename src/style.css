@@ -1,0 +1,74 @@
+.frontHead{
+    color:aquamarine;
+}
+.navigation{
+    background-color: aquamarine;
+}
+.head-title{
+    margin: 30px;
+    text-align: left;
+    padding-left: 110px;
+}
+.card-img-pic{
+    padding: 90px;
+}
+.item-img-pic{
+    padding: 10px
+}
+.img-pic{
+    max-width: 100%;
+    height: auto;
+    padding: 120px;
+}
+.carousel-img{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.link-text-black{
+    color: black;
+    text-decoration: none;
+}
+.link-text-black:hover{
+    color: black;
+}
+.link-text-white{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.link-text-white:hover{
+    color: #FFFFFF;
+}
+.btn-color{
+    color: #3fab65
+}
+.footer {
+    background-color: green;
+    border-top:2px solid red;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.label-title{
+    text-align: center;
+}
+.icon-view:hover{
+    color: blue;
+}
+.icon-update:hover{
+    color: green;
+}
+.icon-delete:hover{
+    color: red;
+}
+.track-item{
+    transition: transform .2s;
+}
+.track-item:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
